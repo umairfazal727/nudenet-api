@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+NudeNetv2==2.0.11
+python-multipart
